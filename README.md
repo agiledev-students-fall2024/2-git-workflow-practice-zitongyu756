@@ -12,4 +12,5 @@ Artificial intelligence algorithms are designed to make decisions, often using r
 
 AI is generally undertaken in conjunction with machine learning and data analytics. Machine learning takes data and looks for underlying trends. If it spots something that is relevant for a practical problem, software designers can take that knowledge and use it to analyze specific issues. All that is required are data that are sufficiently robust for algorithms to discern useful patterns. Data can come in the form of digital information, satellite imagery, visual information, text, or unstructured data.
 
-
+### Peer's Comment
+- **Ashley Liu**: Machine learning is a popular topic nowadays and forms the core of many companies and startups. I would love to learn more.
